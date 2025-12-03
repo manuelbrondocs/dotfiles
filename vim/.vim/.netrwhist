@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/taiwan/.vim'
+let g:netrw_dirhist_6='/home/taiwan'
+let g:netrw_dirhist_5='/home/taiwan/.vim'
+let g:netrw_dirhist_4='/home/taiwan'
+let g:netrw_dirhist_3='/home'
+let g:netrw_dirhist_2='/home/taiwan'
+let g:netrw_dirhist_1='/home/taiwan/.config/nvim'
+let g:netrw_dirhist_0='/home/taiwan/.config'
+let g:netrw_dirhist_9='/home/taiwan/.config/nvim'
+let g:netrw_dirhist_8='/home/taiwan/AyED1/Practico 3'
