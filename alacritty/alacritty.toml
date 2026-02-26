@@ -1,0 +1,13 @@
+[general]
+import = [
+    "~/.config/alacritty/themes/modus-operandi-tinted.toml"
+]
+
+[font]
+normal = { family = "Google Sans Code", style = "Regular" }
+bold = { family = "Google Sans Code", style = "Bold" }
+italic = { family = "Google Sans Code", style = "Italic" }
+bold_italic = { family = "Google Sans Code", style = "Bold Italic" }
+
+# optional
+size = 13
