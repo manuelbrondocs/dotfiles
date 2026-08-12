@@ -1,5 +1,4 @@
 # dotfiles
-vim / neovim
-
-kitty terminal
-alacritty terminal
+neovim
+vim
+alacritty
