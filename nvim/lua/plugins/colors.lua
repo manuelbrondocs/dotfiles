@@ -10,7 +10,7 @@ return {
 
 	        -- Theme comes in four variants `default`, `tinted`, `deuteranopia`, and `tritanopia`
 	        variants = {
-		        modus_operandi = "tinted", -- Set variant for `modus_operandi` style
+		        modus_operandi = "default", -- Set variant for `modus_operandi` style
 		        modus_vivendi = "default", -- Set variant for `modus_vivendi` style
 	        },
 	        transparent = false, -- Transparent background (as supported by the terminal)
